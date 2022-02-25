@@ -15,6 +15,7 @@ public class Main {
         lista.add("Edivania");
         lista.add("Matheus");
         lista.add("Senna");
-
+ 	lista.add("Tiago");
+ 	
         printValue(lista);
     }
